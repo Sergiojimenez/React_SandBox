@@ -1,2 +1,3 @@
 # React_SandBox
-_Testing conections.
+
+- Building a simply structure. Developing some React test. 
